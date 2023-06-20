@@ -3,10 +3,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagus857)](https://solved.ac/rlagus857)
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats-plum-pi.vercel.app/api?username=Hyunjoongkimisback&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p align="center">
+<img height="180em" src="https://github-readme-stats-plum-pi.vercel.app/api?username=Hyunjoongkimisback&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-plum-pi.vercel.app/api/top-langs/?username=Hyunjoongkimisback&layout=compact&hide=jupyter%20notebook" />
+</p>
 
-[![Top Langs](https://github-readme-stats-plum-pi.vercel.app/api/top-langs/?username=Hyunjoongkimisback&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!--
 **Hyunjoongkimisback/Hyunjoongkimisback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
