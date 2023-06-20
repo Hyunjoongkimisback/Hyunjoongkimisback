@@ -3,7 +3,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagus857)](https://solved.ac/rlagus857)
 
-<p align="center">
+<p align="left">
 <img height="180em" src="https://github-readme-stats-plum-pi.vercel.app/api?username=Hyunjoongkimisback&show_icons=true" />
 <img height="180em" src="https://github-readme-stats-plum-pi.vercel.app/api/top-langs/?username=Hyunjoongkimisback&layout=compact&hide=jupyter%20notebook" />
 </p>
